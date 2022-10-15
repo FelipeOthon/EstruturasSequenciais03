@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f35ab37-7a16-4dd1-a4f3-b4e344c46c2c" name="Changes" comment="">
+    <list default="true" id="5f35ab37-7a16-4dd1-a4f3-b4e344c46c2c" name="Changes" comment="enviar readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +14,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,7 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/felip/IdeaProjects/EstruturasSequencial03",
+    "last_opened_file_path": "C:/Users/felip/IdeaProjects/EstruturasSequenciais04",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,7 +47,58 @@
       <updated>1665191923655</updated>
       <workItem from="1665191924786" duration="686000" />
       <workItem from="1665796630885" duration="25000" />
+      <workItem from="1665796887487" duration="152000" />
+      <workItem from="1665797076161" duration="360000" />
+      <workItem from="1665797446759" duration="38000" />
+      <workItem from="1665797519815" duration="29000" />
+      <workItem from="1665797911275" duration="133000" />
+      <workItem from="1665798059528" duration="11000" />
+      <workItem from="1665798368233" duration="199000" />
+      <workItem from="1665798733039" duration="63000" />
     </task>
+    <task id="LOCAL-00001" summary="enviar exercicio">
+      <created>1665796923261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665796923261</updated>
+    </task>
+    <task id="LOCAL-00002" summary="enviar exercicio">
+      <created>1665796980534</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665796980534</updated>
+    </task>
+    <task id="LOCAL-00003" summary="enviar exercicio">
+      <created>1665797089937</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665797089937</updated>
+    </task>
+    <task id="LOCAL-00004" summary="enviar exercicio">
+      <created>1665798014621</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665798014621</updated>
+    </task>
+    <task id="LOCAL-00005" summary="enviar readme">
+      <created>1665798743494</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665798743494</updated>
+    </task>
+    <task id="LOCAL-00006" summary="enviar readme">
+      <created>1665798763622</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665798763622</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,5 +114,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="enviar exercicio" />
+    <MESSAGE value="enviar readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="enviar readme" />
   </component>
 </project>
